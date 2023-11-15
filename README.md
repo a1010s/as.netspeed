@@ -3,7 +3,7 @@
 _NOTE: iperf3 should be installed on the machine running this netspeed test_
 
 ```bash
-apt update -y && apt install iperf3 -y && clear
+sudo apt update -y && sudo apt install iperf3 -y && clear
 ```
 
 ```bash 
